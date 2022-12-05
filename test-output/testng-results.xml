@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-05T15:58:39 CST" name="Default suite" finished-at="2022-12-05T15:58:39 CST" duration-ms="70">
+    <groups>
+    </groups>
+    <test started-at="2022-12-05T15:58:39 CST" name="Default test" finished-at="2022-12-05T15:58:39 CST" duration-ms="70">
+      <class name="javaassign.Limittwo">
+        <test-method signature="testing1()[pri:0, instance:javaassign.Limittwo@6069db50]" started-at="2022-12-05T15:58:39 CST" name="testing1" finished-at="2022-12-05T15:58:39 CST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method signature="testing2()[pri:0, instance:javaassign.Limittwo@6069db50]" started-at="2022-12-05T15:58:39 CST" name="testing2" finished-at="2022-12-05T15:58:39 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing2 -->
+        <test-method signature="testing3()[pri:0, instance:javaassign.Limittwo@6069db50]" started-at="2022-12-05T15:58:39 CST" name="testing3" finished-at="2022-12-05T15:58:39 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing3 -->
+      </class> <!-- javaassign.Limittwo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
